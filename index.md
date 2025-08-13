@@ -1,7 +1,3 @@
----
-title: "Mert'in GitHub Portfolio'su"
----
-
 # Merhaba! 👋 Ben Mert
 
 GitHub Skills ile öğrenmeye başladım ve ilk website'imi oluşturuyorum!
